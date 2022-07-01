@@ -1,3 +1,10 @@
+# [0.19.0](https://github.com/payloadcms/payload/compare/v0.18.5...v0.19.0) (2022-07-01)
+
+
+### Features
+
+* add file option in localApi Create ([86e5a2d](https://github.com/payloadcms/payload/commit/86e5a2d11d6acc2bcc6def806f15bfb1cacb9939))
+
 ## [0.18.5](https://github.com/payloadcms/payload/compare/v0.18.4...v0.18.5) (2022-06-29)
 
 
